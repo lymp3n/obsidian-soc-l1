@@ -28,7 +28,7 @@ SORT file.name ASC
 ## 🟢 Полностью изучено (Закрыто всей командой)
 ```dataview
 TABLE type AS "Тип", date AS "Дата"
-FROM "0_База знаний (Справочник)"
+FROM "База знаний (Справочник)"
 WHERE status_danya = "🟢 Done" AND status_vadim = "🟢 Done" AND status_andrey = "🟢 Done"
 SORT date DESC
 ```
