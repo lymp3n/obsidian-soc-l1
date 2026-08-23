@@ -15,8 +15,8 @@ module: Модуль 4
 *(Этот код автоматически подтянет статусы всех атомарных заметок, которые ты упомянул в тексте выше)*
 
 ```dataview
-TABLE status_1 AS "Я", status_2 AS "Кент"
-FROM outgoing([[Без названия]])
+TABLE status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS "Андрей"
+FROM outgoing([[<% tp.file.title %>]])
 WHERE contains(tags, "atomic")
 ```
 
