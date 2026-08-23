@@ -11,6 +11,7 @@ module: Модуль 1
 > Даня: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_danya]` | Вадим: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_vadim]` | Андрей: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_andrey]`
 
 ## 📖 Обзор темы (Урок)
+
 **Модель OSI** — это 7 кругов, через которые проходит твое сообщение "Привет", пока летит по кабелю до собеседника. 
 
 ### Что такое Инкапсуляция?
