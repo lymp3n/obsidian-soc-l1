@@ -20,7 +20,7 @@ SORT file.name ASC
 ## 🔴 Общая очередь (Никто не начинал)
 ```dataview
 TABLE type AS "Тип"
-FROM "0_База знаний (Справочник)"
+FROM "База знаний (Справочник)"
 WHERE status_danya = "🔴 To-Do" AND status_vadim = "🔴 To-Do" AND status_andrey = "🔴 To-Do"
 SORT file.name ASC
 ```
