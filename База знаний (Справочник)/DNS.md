@@ -1,8 +1,7 @@
 ---
-status_danya: 🔴 To-Do
-status_vadim: 🔴 To-Do
-status_andrey: 🔴 To-Do
-tags: [soc, atomic]
+tags:
+  - soc
+  - atomic
 type: protocol
 date: 2026-08-23
 ---
