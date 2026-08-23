@@ -1,7 +1,9 @@
 ---
 status: 🔴 To-Do
 assignee: <% tp.system.prompt("Кто делает заметку? (Введи Имя)") %>
-tags: [soc, study]
+tags:
+  - soc
+  - study
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 # <% tp.file.title %>
