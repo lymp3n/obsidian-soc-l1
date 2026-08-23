@@ -1,6 +1,4 @@
 ---
-status_danya: 🔴 To-Do
-status_vadim: 🔴 To-Do
 tags:
   - soc
   - atomic
