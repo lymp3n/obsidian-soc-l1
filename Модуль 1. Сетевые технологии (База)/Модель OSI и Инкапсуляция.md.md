@@ -4,6 +4,7 @@ tags:
   - hub
 module: Модуль 1
 status_andrey: 🔴 To-Do
+status_vadim:
 ---
 # Без названия
 
