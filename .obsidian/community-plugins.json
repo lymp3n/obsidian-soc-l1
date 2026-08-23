@@ -1,3 +1,11 @@
 [
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "git-obsi-sync",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "calendar",
+  "quickadd",
+  "obsidian-spaced-repetition",
+  "obsidian-meta-bind-plugin"
 ]

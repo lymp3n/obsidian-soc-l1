@@ -1,0 +1,14 @@
+{
+  "githubToken": "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",
+  "githubUsername": "lymp3n",
+  "repoName": "obsidian-soc-l1",
+  "autoSync": true,
+  "syncIntervalMs": 3000,
+  "excludePatterns": [
+    ".obsidian/workspace",
+    ".obsidian/workspace.json",
+    ".obsidian/plugins/*/data.json"
+  ],
+  "lastSyncTime": 1787493954634,
+  "commitMessageTemplate": "sync: {{datetime}}"
+}
