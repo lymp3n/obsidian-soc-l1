@@ -3,7 +3,7 @@
 ## 🟡 В процессе (Кто-то изучает прямо сейчас)
 ```dataview
 TABLE type AS "Тип", status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS "Андрей"
-FROM "0_База знаний (Справочник)"
+FROM "База знаний (Справочник)"
 WHERE status_danya = "🟡 In Progress" OR status_vadim = "🟡 In Progress" OR status_andrey = "🟡 In Progress"
 SORT date DESC
 ```
