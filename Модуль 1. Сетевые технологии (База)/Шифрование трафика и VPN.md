@@ -5,7 +5,7 @@ tags:
 status_danya: 🔴 To-Do
 status_vadim: 🔴 To-Do
 status_andrey: 🔴 To-Do
-module: Модуль 2
+module: Модуль 1
 ---
 # Без названия
 
@@ -19,6 +19,6 @@ module: Модуль 2
 
 ```dataview
 TABLE status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS "Андрей"
-FROM outgoing([[Архитектура и безопасность Linux.md]])
+FROM outgoing([[<% tp.file.title %>]])
 WHERE contains(tags, "atomic")
 ```

@@ -19,6 +19,6 @@ module: Модуль 2
 
 ```dataview
 TABLE status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS "Андрей"
-FROM outgoing([[Архитектура и безопасность Linux.md]])
+FROM outgoing([[<% tp.file.title %>]])
 WHERE contains(tags, "atomic")
 ```
