@@ -5,7 +5,7 @@ tags:
 status_danya: 🔴 To-Do
 status_vadim: 🔴 To-Do
 status_andrey: 🔴 To-Do
-module: Модуль 1
+module: Модуль 4
 ---
 # Без названия
 
@@ -25,3 +25,4 @@ TABLE status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS
 FROM outgoing([[<% tp.file.title %>]])
 WHERE contains(tags, "atomic")
 ```
+

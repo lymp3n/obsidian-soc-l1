@@ -9,6 +9,9 @@ module: Модуль 3
 ---
 # Без названия
 
+> **📊 Прогресс команды:**
+> Даня: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_danya]` | Вадим: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_vadim]` | Андрей: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_andrey]`
+
 ## 📖 Обзор темы
 Здесь описывается общая логика модуля. 
 Например: "Основной протокол для раздачи IP-адресов — это [[DHCP]], а за доменные имена отвечает [[DNS]]. Главная уязвимость тут — это [[ARP Spoofing]]." 
