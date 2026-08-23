@@ -1,9 +1,9 @@
 ---
-status_1: 🔴 To-Do
-status_2: 🔴 To-Do
-status_3: ➖ N/A
+status_danya: 🔴 To-Do
+status_vadim: 🔴 To-Do
+status_andrey: 🔴 To-Do
 tags: [soc, atomic]
-type: <% tp.system.suggester(["concept", "protocol", "tool", "attack"], ["concept", "protocol", "tool", "attack"]) %>
+type: <% tp.system.suggester(["concept", "protocol", "tool", "attack", "os_logs"], ["concept", "protocol", "tool", "attack", "os_logs"]) %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
 # <% tp.file.title %>
@@ -11,11 +11,11 @@ date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ## 📌 Суть (TL;DR)
 > Определение в 1-2 предложениях.
 
-## ⚙️ Механика работы
-- Как это устроено технически.
+## ⚙️ Механика работы / Архитектура
+- Основной принцип работы.
 
 ## 🛡️ Фокус ИБ (Атаки / Логи / Защита)
-- Оставь здесь то, что применимо к теме.
+- Оставь здесь то, что применимо.
 
 ## 🔗 Связанные темы
 -
