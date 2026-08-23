@@ -1,6 +1,7 @@
 ---
-status_me: 🔴 To-Do
-status_kent: 🔴 To-Do
+status_1: 🔴 To-Do
+status_2: 🔴 To-Do
+status_3: ➖ N/A
 tags: [soc]
 type: <% tp.system.suggester(["concept", "protocol", "tool", "attack", "os_logs"], ["concept", "protocol", "tool", "attack", "os_logs"]) %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
