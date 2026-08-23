@@ -2,7 +2,9 @@
 status_danya: 🔴 To-Do
 status_vadim: 🔴 To-Do
 status_andrey: 🔴 To-Do
-tags: [soc, atomic]
+tags:
+  - soc
+  - atomic
 type: <% tp.system.suggester(["concept", "protocol", "tool", "attack", "os_logs"], ["concept", "protocol", "tool", "attack", "os_logs"]) %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
