@@ -29,4 +29,3 @@ TABLE module AS "Модуль"
 WHERE contains(tags, "hub") AND status_danya = "🟢 Done" AND status_vadim = "🟢 Done" AND status_andrey = "🟢 Done"
 SORT file.name ASC
 ```
-
