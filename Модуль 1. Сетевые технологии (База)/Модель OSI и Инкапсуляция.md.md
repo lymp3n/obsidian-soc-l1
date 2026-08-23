@@ -3,7 +3,7 @@ tags:
   - soc
   - hub
 module: Модуль 1
-status_andrey: 🟢 Done
+status_andrey: ➖ N/A
 ---
 # Без названия
 
