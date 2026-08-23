@@ -8,6 +8,7 @@ tags:
 type: <% tp.system.suggester(["concept", "protocol", "tool", "attack", "os_logs"], ["concept", "protocol", "tool", "attack", "os_logs"]) %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
+<!-- Статусы: 🔴 To-Do | 🟡 In Progress | 🟢 Done | ➖ N/A -->
 # <% tp.file.title %>
 
 ## 📌 Суть (TL;DR)
