@@ -11,7 +11,7 @@ SORT date DESC
 ## ⏳ Отстающие (Ждем остальных)
 ```dataview
 TABLE type AS "Тип", status_danya AS "Даня", status_vadim AS "Вадим", status_andrey AS "Андрей"
-FROM "0_База знаний (Справочник)"
+FROM "База знаний (Справочник)"
 WHERE (status_danya = "🟢 Done" OR status_vadim = "🟢 Done" OR status_andrey = "🟢 Done") 
   AND (status_danya = "🔴 To-Do" OR status_vadim = "🔴 To-Do" OR status_andrey = "🔴 To-Do" OR status_danya = "🟡 In Progress" OR status_vadim = "🟡 In Progress" OR status_andrey = "🟡 In Progress")
 SORT file.name ASC
