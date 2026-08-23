@@ -1,7 +1,7 @@
 ---
 status_danya: 🔴 To-Do
 status_vadim: 🔴 To-Do
-status_andrey: 🟢 Done
+status_andrey:
 tags:
   - soc
   - atomic
