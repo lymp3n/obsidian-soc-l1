@@ -16,3 +16,4 @@ module: <% tp.system.suggester(["Модуль 1", "Модуль 2", "Модул�
 TABLE status_1 AS "Я", status_2 AS "Кент"
 FROM outgoing([[<% tp.file.title %>]])
 WHERE contains(tags, "atomic")
+```
