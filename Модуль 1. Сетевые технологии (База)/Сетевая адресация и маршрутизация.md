@@ -4,9 +4,8 @@ tags:
   - hub
 status_danya: 🔴 To-Do
 status_vadim: 🔴 To-Do
-status_andrey: 🔴 To-Do
+status_andrey: 🟡 In Progress
 module: Модуль 1
-
 ---
 # Без названия
 
