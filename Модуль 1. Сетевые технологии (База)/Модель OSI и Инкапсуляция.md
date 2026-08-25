@@ -12,7 +12,7 @@ module: Модуль 1
 > **📊 Прогресс команды:**
 > Даня: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_danya]` | Вадим: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_vadim]` | Андрей: `INPUT[inlineSelect(option(🔴 To-Do), option(🟡 In Progress), option(🟢 Done)):status_andrey]`
 
-## 📖 Обзор темы (Урок)
+## 📖 Обзор темы
 
 **Модель OSI (Open Systems Interconnection)** — это 
 
