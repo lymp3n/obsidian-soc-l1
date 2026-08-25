@@ -14,7 +14,7 @@ module: Модуль 1
 
 ## 📖 Обзор темы
 
-**Модель OSI (Open Systems Interconnection)** — это 
+**Модель OSI (Open Systems Interconnection)**
 
 ### Что такое Инкапсуляция?
 
